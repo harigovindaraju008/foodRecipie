@@ -1,0 +1,8 @@
+const mealActionTypes = {
+  GET_MEALS: 'GET_MEALS',
+  GET_MEALS_SUCCESS: 'GET_MEALS_SUCCESS',
+  GET_MEALS_FAILED: 'GET_MEALS_FAILED',
+  MEALS_INPUT_VALUE_CHANGED: 'MEALS_INPUT_VALUE_CHANGED',
+};
+
+export default mealActionTypes;
